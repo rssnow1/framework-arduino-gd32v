@@ -36,8 +36,7 @@
 #include "Printable.h"
 #include "PluggableUSB.h"
 #include "Server.h"
-#include <string.h>
-#include 	setBitOrder(settings.bOrder);
+#include "String.h"
 #include "Stream.h"
 #include "Udp.h"
 #include "USBAPI.h"
