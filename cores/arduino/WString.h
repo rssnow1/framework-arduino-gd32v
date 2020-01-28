@@ -24,7 +24,7 @@
 #ifdef __cplusplus
 
 #include <stdlib.h>
-#include <string.h>
+#include <cstring>
 #include <ctype.h>
 #if defined(__AVR__)
 #include "avr/pgmspace.h"

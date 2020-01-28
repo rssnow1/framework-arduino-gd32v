@@ -36,7 +36,7 @@
 #include "Printable.h"
 #include "PluggableUSB.h"
 #include "Server.h"
-#include "String.h"
+#include <String> 
 #include "Stream.h"
 #include "Udp.h"
 #include "USBAPI.h"
