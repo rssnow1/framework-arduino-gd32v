@@ -1,6 +1,6 @@
 {
     "name": "framework-arduino-gd32v",
     "description": "Arduino Wiring-based Framework (GD32V Core)",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://github.com/sipeed/Maixduino"
 }
